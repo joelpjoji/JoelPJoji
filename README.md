@@ -31,7 +31,8 @@
 <br />
 <br />
 
-Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer:.
+Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **real-world problems**:earth_asia:. 
+I'm passionate about making **open-source** more accessible, creating software:computer:.
 ### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 
   
@@ -65,3 +66,5 @@ Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:ip
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 </p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joelpjoji)](https://github.com/anuraghazra/github-readme-stats)
+
