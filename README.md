@@ -21,5 +21,5 @@ Hi, I'm [Joel P Joji!](https://www.joelpjoji.com), a passionate Computer Science
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [joelpjoji1222@gmail.com](mailto:joelpjoji1222@gmail.com); [@joelpjoji](https://twitter.com/joelpjoji);
+- 📫 How to reach me: [joelpjoji1222@gmail.com](mailto:joelpjoji1222@gmail.com)  [@joelpjoji](https://twitter.com/joelpjoji);
 - 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
