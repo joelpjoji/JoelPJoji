@@ -1,12 +1,31 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Joel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/joelpjoji">
   <img align="left" alt="Joel P Joji | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
   <img align="left" alt="Joel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="mailto:joelpjoji1222@gmail.com">
+  <img align="left" alt="Joel's Mail" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/gmail.svg" />
+</a>
+<a href="https://www.facebook.com/joel.pjoji.1/">
+  <img align="left" alt="Joel's Facebook" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/facebook.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+  <img align="left" alt="Joel's Instagram" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+  <img align="left" alt="Joel's Reddit" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/reddit.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+  <img align="left" alt="Joel's Telegram" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/telegram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+  <img align="left" alt="Joel's WhatsApp" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/wharsapp.svg" />
 </a>
 
 
