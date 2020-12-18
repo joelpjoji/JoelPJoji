@@ -1,8 +1,6 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">:smiley:
 <img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
-</a>
+
 <a href="https://discord.com/channels/@joeykuttan#6661">
   <img align="left" alt="Joel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -46,7 +44,9 @@ I'm passionate about making **open-source** more accessible, creating software:c
 - 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
-
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
+</a>
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
 
