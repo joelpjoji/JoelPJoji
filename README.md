@@ -31,7 +31,8 @@
 <br />
 <br />
 
-Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer:.<br />### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
+Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer:.
+### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 
   
 **Talking about Personal Stuffs:**
