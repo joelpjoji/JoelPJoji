@@ -71,7 +71,7 @@ I'm passionate about making **open-source** more accessible, creating software:c
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/joelpjoji/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
 </a>
 </p>
