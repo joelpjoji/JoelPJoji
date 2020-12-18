@@ -42,7 +42,7 @@ Hi, I'm [Joel P Joji ](https://www.joelpjoji.com),I'm a **Android Developer**:ip
 I'm passionate about making **open-source** more accessible, creating software:computer:.
 ### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 
- <br /><br />
+ <br />
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
