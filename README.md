@@ -39,12 +39,13 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <br />
 
 **Talking about Personal Stuffs:**
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
-</a>
+
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
+</a>
 - 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
