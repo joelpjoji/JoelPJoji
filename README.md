@@ -35,16 +35,19 @@ Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:ip
 I'm passionate about making **open-source** more accessible, creating software:computer:.
 ### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
+</a>
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
-</a>
+
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
 
@@ -69,9 +72,7 @@ I'm passionate about making **open-source** more accessible, creating software:c
 
 
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
-</a>
+
 
 
 </p>
