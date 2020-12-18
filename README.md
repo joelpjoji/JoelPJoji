@@ -49,9 +49,7 @@ I'm passionate about making **open-source** more accessible, creating software:c
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
-</a>
+
   </a>
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/java.svg" alt="Java"></a></code>
@@ -64,7 +62,9 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <code><a href = "https://jquery.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code> 
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/visual-studio.svg"></a></code>
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/databases.svg"></a></code>
-<br/><br/>
+<br/><a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
+</a><br/>
   <code><a href = "https://firebase.google.com/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/firebase.svg"></a></code>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code><code><a href = "https://www.python.org/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/python.svg"></a></code>
 <code><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/cpp.svg" alt="C Language"></a></code>
