@@ -1,6 +1,8 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">:smiley:
 <img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
-
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
+</a>
 <a href="https://discord.com/channels/@joeykuttan#6661">
   <img align="left" alt="Joel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -35,9 +37,7 @@ Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:ip
 I'm passionate about making **open-source** more accessible, creating software:computer:.
 ### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
-</a>
+ 
 <br />
 
 **Talking about Personal Stuffs:**
