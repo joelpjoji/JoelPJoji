@@ -67,6 +67,8 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <code><a href = "https://www.adobe.com/in/products/illustrator.html">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
+
+<br />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
 </a>
