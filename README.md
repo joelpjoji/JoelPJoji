@@ -39,12 +39,11 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <br />
 
 **Talking about Personal Stuffs:**
-
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Web Development; 
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
 </a>
+- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
 
@@ -72,9 +71,5 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <code><a href = "https://www.adobe.com/in/products/illustrator.html">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
-
 <br />
-
-
-
 </p>
