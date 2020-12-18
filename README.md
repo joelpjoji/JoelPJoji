@@ -28,12 +28,11 @@
   <img align="left" alt="Joel's WhatsApp" width="22px" src=https://github.com/joelpjoji/joelpjoji/blob/main/Icons/whatsapp.svg />
 </a>
 <br />
-
+<img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
 <br />
 
-Hi, I'm [Joel P Joji!](https://www.joelpjoji.com), a passionate Computer Science Engineer 🚀 from India.
+Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer:. Do :star2: any of my repository if you find my project interesting, at least your star it :smile: it wont hurt .
 
-  <img align="right" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
