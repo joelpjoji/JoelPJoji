@@ -42,7 +42,9 @@ I'm passionate about making **open-source** more accessible, creating software:c
 - 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
+</a>
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
 
@@ -65,13 +67,8 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <code><a href = "https://www.adobe.com/in/products/illustrator.html">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Joel's github stats](https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
-</a>
+
 
 </p>
