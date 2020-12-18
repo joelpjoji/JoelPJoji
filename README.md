@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.com/channels/@joeykuttan#6661">
   <img align="left" alt="Joel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/joelpjoji">
@@ -15,16 +15,16 @@
 <a href="https://www.facebook.com/joel.pjoji.1/">
   <img align="left" alt="Joel's Facebook" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+<a href="https://www.instagram.com/joeykuttan_/">
   <img align="left" alt="Joel's Instagram" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+<a href="https://www.reddit.com/user/Medical-Log-3245">
   <img align="left" alt="Joel's Reddit" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/reddit.svg" />
 </a>
-<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+<a href="https://t.me/joelpjoji">
   <img align="left" alt="Joel's Telegram" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/telegram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+<a href="https://wa.me/qr/GRP5KBM4H7EXG1">
   <img align="left" alt="Joel's WhatsApp" width="22px" src=https://github.com/joelpjoji/joelpjoji/blob/main/Icons/whatsapp.svg />
 </a>
 <br />
