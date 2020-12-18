@@ -2,7 +2,7 @@
 <img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
 
 <a href="https://www.facebook.com/joel.pjoji.1/">
-  <img align="left" alt="Joel's Facebook" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/facebook.svg" />
+  <img align="left" alt="Joel's Facebook" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/facebook.svg" width="50px" />
 </a>
 
 <a href="https://www.instagram.com/joeykuttan_/">
@@ -37,7 +37,7 @@
 <br />
 <br />
 
-Hi, I'm [Joel P Joji!](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **real-world problems**:earth_asia:. 
+Hi, I'm [Joel P Joji ](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **real-world problems**:earth_asia:. 
 I'm passionate about making **open-source** more accessible, creating software:computer:.
 ### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 
