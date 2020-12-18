@@ -25,9 +25,9 @@
   <img align="left" alt="Joel's Telegram" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/telegram.svg" />
 </a>
 <a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
-  <img align="left" alt="Joel's WhatsApp" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/wharsapp.svg" />
+  <img align="left" alt="Joel's WhatsApp" width="22px" src=https://github.com/joelpjoji/joelpjoji/blob/main/Icons/whatsapp.svg />
 </a>
-
+<br />
 
 <br />
 
