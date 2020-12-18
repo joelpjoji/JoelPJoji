@@ -36,13 +36,14 @@
 
 <br />
 <br />
-<br /><br />
+
 Hi, I'm [Joel P Joji ](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **Problems**:earth_asia:. 
 I'm passionate about making **open-source** more accessible, creating software:computer:.
 
 
- 
-<br />
+ <br /><br />
+ <br /><br />
+
 
 
 **Talking about Personal Stuffs:**
