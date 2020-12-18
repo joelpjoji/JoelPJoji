@@ -50,6 +50,9 @@ I'm passionate about making **open-source** more accessible, creating software:c
 
   </a> <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
+</a><br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
 </a>
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/java.svg" alt="Java"></a></code>
@@ -70,7 +73,5 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 <br />
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
-</a>
+
 </p>
