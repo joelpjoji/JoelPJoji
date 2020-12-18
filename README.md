@@ -37,15 +37,12 @@
 <br />
 <br />
 
+
 Hi, I'm [Joel P Joji ](https://www.joelpjoji.com),I'm a **Android Developer**:iphone:, looking to something Intresting **Problems**:earth_asia:. 
 I'm passionate about making **open-source** more accessible, creating software:computer:.
-
+### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 
  <br /><br />
- <br /><br />
-
-
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
@@ -82,6 +79,4 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <a href="https://github.com/joelpjoji/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
 </a>
-</p>
-### Show some ❤️ by starring some of the repositories! :smile: it wont hurt .
 </p>
