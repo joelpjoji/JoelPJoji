@@ -2,36 +2,36 @@
 <img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
 
 <a href="https://www.facebook.com/joel.pjoji.1/">
-  <img align="left" alt="Joel's Facebook" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/facebook.svg" width="50px" />
+  <img align="left" alt="Joel's Facebook" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/facebook.svg" />
 </a>
 
 <a href="https://www.instagram.com/joeykuttan_/">
-  <img align="left" alt="Joel's Instagram" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/instagram.svg" />
+  <img align="left" alt="Joel's Instagram" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/instagram.svg" />
 </a>
 <a href="https://wa.me/qr/GRP5KBM4H7EXG1">
-  <img align="left" alt="Joel's WhatsApp" width="22px" src=https://github.com/joelpjoji/joelpjoji/blob/main/Icons/whatsapp.svg />
+  <img align="left" alt="Joel's WhatsApp" width="35px" src=https://github.com/joelpjoji/joelpjoji/blob/main/Icons/whatsapp.svg />
 </a>
 
 <a href="https://discord.com/channels/@joeykuttan#6661">
-  <img align="left" alt="Joel's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Joel's Discord" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
 <a href="https://twitter.com/joelpjoji">
-  <img align="left" alt="Joel P Joji | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Joel P Joji | Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://t.me/joelpjoji">
-  <img align="left" alt="Joel's Telegram" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/telegram.svg" />
+  <img align="left" alt="Joel's Telegram" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/telegram.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
-  <img align="left" alt="Joel's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Joel's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://www.reddit.com/user/Medical-Log-3245">
-  <img align="left" alt="Joel's Reddit" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/reddit.svg" />
+  <img align="left" alt="Joel's Reddit" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/reddit.svg" />
 </a>
 <a href="mailto:joelpjoji1222@gmail.com">
-  <img align="left" alt="Joel's Mail" width="22px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/gmail.svg" />
+  <img align="left" alt="Joel's Mail" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/gmail.svg" />
 </a>
 
 <br />
