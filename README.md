@@ -26,11 +26,7 @@ Hi, I'm [Joel P Joji!](https://www.joelpjoji.com), a passionate Computer Science
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/JoykishanSharma">
-    <img width="460" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-  <!--
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+
   </a>
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/java.svg" alt="Java"></a></code>
@@ -51,9 +47,12 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 <code><a href = "https://firebase.google.com/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/firebase.svg"></a></code>
 
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"</a></code>
+<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/python.svg"></a></code>
 
 <code><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/cpp.svg" alt="C Language"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"</a>></code>
+
+<code><a href = "https://www.adobe.com/in/products/illustrator.html">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
+
 </p>
