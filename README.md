@@ -43,9 +43,6 @@ I'm passionate about making **open-source** more accessible, creating software:c
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
-</a>
 - 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
 
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -60,7 +57,9 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <br/><br/>
   <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
 <code><a href = "https://getbootstrap.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
-<code><a href = "https://jquery.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code> 
+<code><a href = "https://jquery.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></a></code>  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=8" />
+</a>
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/visual-studio.svg"></a></code>
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/databases.svg"></a></code>
 <br/><a href="https://github.com/anuraghazra/github-readme-stats">
