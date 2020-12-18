@@ -66,7 +66,9 @@ I'm passionate about making **open-source** more accessible, creating software:c
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji)](https://github.com/joelpjoji/github-readme-stats)                                                        [![Joel's github stats](https://github-readme-stats.vercel.app/api?username=joelpjoji)](https://github.com/joelpjoji/github-readme-stats&bg_color=black)
+<p align="right">[![Top Langs]<img src=(https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji)](https://github.com/joelpjoji/github-readme-stats)    />       
+
+[![Joel's github stats](https://github-readme-stats.vercel.app/api?username=joelpjoji)](https://github.com/joelpjoji/github-readme-stats&bg_color=black)
 
 
 </p>
