@@ -48,7 +48,7 @@ I'm passionate about making **open-source** more accessible, creating software:c
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Web Development; 
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://drive.google.com/file/d/1xUHC9zzjIQSFmfywpH84SASEuKaKV0MM/view)
+- 📝[Resume](https://drive.google.com/file/d/1WNFNUs5UiWdo7x3mDjXXJWhrYhyT06Rn/view?)
  </a> <a href="https://github.com/joelpjoji/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelpjoji&langs_count=10" />
 </a> 
