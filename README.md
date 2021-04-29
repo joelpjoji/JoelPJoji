@@ -59,7 +59,7 @@ I'm passionate about making **open-source** more accessible, creating software:c
  
  <!-- icons -->
 <code><a href = "https://www.java.com/en/"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/java.svg" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://commons.wikimedia.org/wiki/File:Android_Studio_Icon_3.6.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
+<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png" alt="Android Studio"></a></code>
 <code><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/xml.svg" alt="XML"></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/html-5.svg"></code>
 <br/><br/>
