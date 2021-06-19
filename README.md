@@ -1,10 +1,20 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">:smiley:
 <img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
 
-<a href="https://www.facebook.com/joel.pjoji.1/">
-  <img align="left" alt="Joel's Facebook" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/facebook.svg" />
+<a href="mailto:joelpjoji1222@gmail.com">
+  <img align="left" alt="Joel's Mail" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/gmail.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
+  <img align="left" alt="Joel's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://twitter.com/joelpjoji">
+  <img align="left" alt="Joel P Joji | Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://t.me/joelpjoji">
+  <img align="left" alt="Joel's Telegram" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/telegram.svg" />
+</a>
 <a href="https://www.instagram.com/joeykuttan_/">
   <img align="left" alt="Joel's Instagram" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/instagram.svg" />
 </a>
@@ -16,23 +26,10 @@
   <img align="left" alt="Joel's Discord" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
-<a href="https://twitter.com/joelpjoji">
-  <img align="left" alt="Joel P Joji | Twitter" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://t.me/joelpjoji">
-  <img align="left" alt="Joel's Telegram" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/telegram.svg" />
-</a>
 
-<a href="https://www.linkedin.com/in/joel-p-joji-5aa9b0172">
-  <img align="left" alt="Joel's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
 
-<a href="https://www.reddit.com/user/Medical-Log-3245">
-  <img align="left" alt="Joel's Reddit" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/reddit.svg" />
-</a>
-<a href="mailto:joelpjoji1222@gmail.com">
-  <img align="left" alt="Joel's Mail" width="35px" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/gmail.svg" />
-</a>
+
+
 
 <br />
 <br />
