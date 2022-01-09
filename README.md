@@ -71,6 +71,3 @@ I'm passionate about making **open-source** more accessible, creating software:c
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
   </a>
 </p>
-<script type="text/JavaScript">
-$('.redirection').click(function() { window.location.href = 'http://joelpjoji.tk'; });
-</script>
