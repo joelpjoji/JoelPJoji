@@ -1,5 +1,4 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">:smiley:
-<a href="https://joelpjoji.tk">
   <img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
 
   <a href="mailto:joelpjoji1222@gmail.com">
@@ -71,6 +70,7 @@ I'm passionate about making **open-source** more accessible, creating software:c
   <a href="https://github.com/joelpjoji/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joelpjoji&show_icons=true" />
   </a>
- </a>
 </p>
-
+<script type="text/JavaScript">
+$('.redirection').click(function() { window.location.href = 'http://joelpjoji.tk'; });
+</script>
