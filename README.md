@@ -1,5 +1,5 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">:smiley:
-<a href="https://joelpjoji.tk"></a>
+<a href="https://joelpjoji.tk">
 <img align="right" src="https://github.com/joelpjoji/joelpjoji/blob/main/Icons/pacman.svg?sanitize=true" width="200" height="200" width="500" height="320" />
 
 <a href="mailto:joelpjoji1222@gmail.com">
